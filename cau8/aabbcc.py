@@ -1,0 +1,2 @@
+a= "Luogn"
+print (a)
